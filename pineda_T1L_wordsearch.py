@@ -1,8 +1,4 @@
-'''
-Pineda, Brixter Sien M.
-2020-02919
-BS CS 
-'''
+
 import mysql.connector
 import random
 
